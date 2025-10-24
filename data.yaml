@@ -1,4 +1,0 @@
-train: ../images/train
-val: ../images/val
-nc: 6
-names: ['person','cat','dog','cup','laptop','keyboard']
